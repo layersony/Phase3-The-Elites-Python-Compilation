@@ -1,0 +1,8 @@
+create - create a database
+drop - delete a data
+
+INSERT - add data to a table
+delete - delete data from tabe
+update - update data
+select - getting info from database
+alter - changing the structure of a table
