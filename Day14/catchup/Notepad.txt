@@ -1,0 +1,37 @@
+# syntax variable
+variablename = value
+
+# syntax function
+def functionName():
+    pass
+
+# syntax class
+class ClassName:
+    pass
+
+# syntax Conditional Statements
+if... elif... else
+
+if condition:
+    code here
+elif condition:
+    code here
+else:
+    code here
+
+# sytnax loops
+# While loop
+
+variable
+while condition:
+    code here
+    increment
+
+# for loop
+for item in sequence:
+    code here
+
+
+----------------------------------
+Class - blueprint of an instance /object
+object/instance - 
